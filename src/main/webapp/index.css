@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@300;500&display=swap');
+
+
+#fill {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+	width: 100%
+}
+
+#select-choice{
+	margin-left:100px;
+}
+
+#search-bar{
+	width:50%;
+}
+
+#btns {
+	float: right;
+	margin-right: 50px;
+}
+
+nav {
+    margin-right: 10px;
+}
+
+h1{
+	font-size: 70px;
+}
+
+.header-style{
+	padding-top:25px;
+	font-family: "Lobster";
+	color: #FF0000;
+}
+
+button.search{background-color: #9E0E19; color: white;}
+
+
